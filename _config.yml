@@ -1,0 +1,14 @@
+layout_spectrum: 0.5255319
+typography_spectrum: 0.8085107
+color:
+  lightness: 0.2595745
+  brandStrength: 0.8040818
+  saturation: 0.7425532
+  rhythmicContrast: 0.4981277
+  brandColors:
+    - '#000000'
+    - '#E7E1D9'
+    - '#96928D'
+    - '#3F3F3F'
+    - '#ECB38D'
+name: Ricardo Ceppo
