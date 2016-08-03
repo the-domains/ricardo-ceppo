@@ -1,9 +1,21 @@
-layout_spectrum: 0.5255319
-typography_spectrum: 0.8085107
+layout_spectrum: 0.2
+name: Ricardo Ceppo
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.2595745
   brandStrength: 0.8040818
-  saturation: 0.7425532
+  lightness: 0.8085107
+  saturation: 0.887234
   rhythmicContrast: 0.4981277
   brandColors:
     - '#000000'
@@ -11,4 +23,4 @@ color:
     - '#96928D'
     - '#3F3F3F'
     - '#ECB38D'
-name: Ricardo Ceppo
+typography_spectrum: 0.8085107
