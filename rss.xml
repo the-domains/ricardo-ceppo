@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Ricardo Ceppo]]></title>
+        <description><![CDATA[Ricardo Ceppo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 11:32:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Aspecto final]]></title>
+            <description><![CDATA[<article><h1>Aspecto final</h1><p>Neste caso clínico, um jovem de 12 anos fraturou o incisivo central. O fragmento foi recolado 2 vezes por outros profissionais mas a estética não ficou satisfatória. Na terceira tentativa, mantendo apenas a face palatina, e utilizando 2 massas de dentina, 2 massas de esmalte e corantes nas cores cinza e branco temos o seguinte resultado:</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bb78b66-d5e3-45f7-8c03-37620521e709.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac614024-323d-42cb-8742-ea10103167d3.jpg</link>
+            <guid isPermaLink="false">09f97923-9466-4f94-a982-778444186963</guid>
+            <pubDate>Wed, 03 Aug 2016 11:32:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
